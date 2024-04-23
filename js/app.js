@@ -1,4 +1,3 @@
-
 import Sketch from './sketch.js';
 
 
@@ -11,9 +10,7 @@ new Sketch({
 
 
 // animation
-
 function animation(time) {
 
-   
 
 }
